@@ -6,3 +6,11 @@
 -----------------------------------------------------------------*/
 
 
+#logo img{
+    max-height: 40px;
+}
+@media screen and (max-width: 600px) {
+    #logo img {
+        margin: 10px 0;
+    }
+}
